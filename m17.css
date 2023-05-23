@@ -1,0 +1,30 @@
+body{
+    /*background:url("VIDEOS/tenor\(1\).gif") no-repeat ;*/
+    min-height: 700px;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}   
+    #conteudo {
+
+        width: 100%;
+        height: 100%;
+        position: fixed;
+        top: 0;
+        left: 0;
+        padding: 10px;
+        text-align: center;
+        font-family: sans-serif;
+    }
+
+    .btn {
+        background: rgb(0, 0, 0);
+        color: white;
+        border: none;
+        padding: 10px;
+        width: 80px;
+        border-radius: 5px;
+    }
